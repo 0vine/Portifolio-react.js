@@ -1,0 +1,25 @@
+.div-main3{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 15vw;
+}
+
+.sectionAbouteMe{
+    color: #FFFFFF;
+    display: flex;
+    max-width: 60%;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 60%;
+    height: 100%;
+}
+
+.sectionAbouteMe p{
+    text-align: justify;
+    font-size: 13px;
+}
+
+.div-h1 {
+    width: 45%;
+}

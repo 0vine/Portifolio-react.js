@@ -1,0 +1,45 @@
+
+
+.div-main{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.headerContainer{
+    display: flex;
+    color: white;
+    width: 60%;
+    height: 8vh;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.divLink{
+    display: flex;
+    margin: 0;
+    width: 30%;
+    justify-content: space-between;
+}
+
+.headerContainer h1{
+    font-size: 20px;
+}
+
+.headerContainer h3{
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.headerContainer button{
+    border: none;
+    background-color: #6880FF;
+    padding: 8px 20px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.headerContainer button:hover{
+    background-color: #7C91FF;
+}

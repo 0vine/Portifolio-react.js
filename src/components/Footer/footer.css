@@ -1,0 +1,39 @@
+.divmain6{
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}
+
+.container-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #FFFFFF;
+    max-width: 60%;
+    width: 60%;
+    height: 150px;
+    border-bottom: 1px solid #FFFFFF;
+    border-top: 1px solid #FFFFFF;
+}
+
+.container-footer p{
+    font-size: 13px;
+}
+
+.div-contatos{
+    color: #FFFFFF;
+    
+}
+
+.div-contatos h1{
+    font-size: 30px;
+}
+
+
+
+.div-contatos img{
+    margin: 5px;
+    cursor: pointer;
+}
